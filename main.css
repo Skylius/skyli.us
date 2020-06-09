@@ -1,5 +1,17 @@
 @charset "UTF-8";
 
-div.main {
+body {
 	background-color: #1c1817;
+}
+
+h1 {
+	color: #691d1d;
+}
+
+p {
+	color: #691d1d;
+}
+
+h4 {
+	color: #691d1d;
 }
